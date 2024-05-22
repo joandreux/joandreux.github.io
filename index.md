@@ -29,8 +29,10 @@ Nous pouvons mettre à jour cette politique de confidentialité de temps à autr
 
 ## Clause de Non-responsabilité, Conformité à la Loi et Affiliation
 
-Notre application ne fournit pas de conseils juridiques et ne peut être interprétée comme telle. Toutes les informations fournies par l'application sont fournies à titre informatif uniquement. Il incombe aux utilisateurs de se conformer à toutes les lois applicables et réglementations locales, nationales et internationales lors de l'utilisation de notre application. 
+Notre application ne fournit pas de conseils juridiques et ne peut être interprétée comme telle. Toutes les informations fournies par l'application sont fournies à titre informatif uniquement. 
+Il incombe aux utilisateurs de se conformer à toutes les lois applicables et réglementations locales, nationales et internationales lors de l'utilisation de notre application. 
 De plus, nous ne sommes pas affiliés à une entité gouvernementale et ne prétendons pas représenter ou agir au nom de toute entité gouvernementale.
+Les informations fournies par l'application proviennent de la législation en vigueur (https://impotsdirects.public.lu/).
 
 ## Contact
 
