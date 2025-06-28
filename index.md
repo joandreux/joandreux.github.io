@@ -16,11 +16,11 @@ Bien que notre application ne collecte ni ne stocke aucune information personnel
 ## Conservation des Données
 
 Nous ne conservons aucune donnée personnelle sur nos serveurs. 
-Toutes les données générées par l'application restent en local sur l'appareil de l'utilisateur et ne sont ni stockées ni transmises à nos serveurs ni à des tiers.
+Toutes les données générées par l'application restent en local sur l'appareil de l'utilisateur et ne sont ni stockées/transmises à nos serveurs, ni à des tiers.
 
 ## Vos Droits
 
-Étant donné que notre application ne collecte ni n'utilise aucune information personnelle, vous n'avez pas à exercer de droits spécifiques en matière de données. 
+Étant donné que notre application ne collecte et n'utilise aucune information personnelle, vous n'avez pas à exercer de droits spécifiques en matière de données. 
 Votre vie privée et vos informations restent entièrement sous votre contrôle.
 
 ## Modifications de cette Politique
@@ -38,4 +38,4 @@ Les informations fournies par l'application proviennent de la législation en vi
 
 Si vous avez des questions ou des préoccupations concernant cette politique de confidentialité, veuillez nous contacter à support@andreux.be.
 
-Date d'effet : 21/05/2024
+Date d'effet : 28/06/2025
